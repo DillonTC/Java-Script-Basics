@@ -1,3 +1,3 @@
-# My Game is Cool!
+# Basic Java Script
 
-Make sure you give it a good description here...
+This is where I will keep the basics of Javascript
