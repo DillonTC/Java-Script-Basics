@@ -1,2 +1,7 @@
  let fullName = "Dillon Campbell";
- console.log("Hello World! My name is %s", fullName);
+ let age = 14
+ console.log(
+     "Hello World! My name is %s, and my age is %d.", 
+ fullName,
+ age
+ );
